@@ -1,0 +1,146 @@
+{
+  "basics": {
+    "name": "Amberley Romo",
+    "label": "Software Engineer",
+    "picture": "https://avatars3.githubusercontent.com/u/3461087?v=3&s=460",
+    "email": "amberleyjohanna@gmail.com",
+    "website": "http://amberleyromo.com/",
+    "summary": "My ancestry traces back to a Spanish warlord. I’m an avid knitter and yogi. I’ve learned and forgotten conversational Mandarin. I have the softest pet rabbit -- who may or may not have his own Instagram.",
+    "location": {
+      "city": "Austin",
+      "countryCode": "US",
+      "region": "TX"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/amberleyromo"
+      },
+      {
+        "network": "Github",
+        "url": "https://github.com/amberleyromo"
+      },
+      {
+        "network": "Blog",
+        "url": "http://amberley.me/"
+      },
+      {
+        "network": "Site",
+        "url": "http://amberleyromo.com/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Social Driver",
+      "position": "Technical Project Manager",
+      "website": "http://socialdriver.com",
+      "startDate": "2014",
+      "endDate": "2015",
+      "summary": "Social Driver is a DC-based agency that integrates strategy, creative, and technology to drive results for clients.",
+      "highlights": [
+        "Managed software/ web development projects ($40k - $100k), primarily in the realm of data visualization.", 
+        "Served as primary liaison between clients and the production team, translating technical concepts into non-technical terms, and client needs into project priorities.",
+        "Scoped and crafted responses to RFPs, expanded existing accounts and engaged new business."
+      ]
+    },
+    {
+      "company": "The Arc of the United States",
+      "position": "Web Producer",
+      "website": "http://www.thearc.org/",
+      "startDate": "2013",
+      "endDate": "2014",
+      "summary": "The Arc is the largest national community-based organization advocating for and serving people with intellectual and developmental disabilities and their families.",
+      "highlights": [
+        "Designed and built new sites, and maintained existing sites and content using BlackBaud NetCommunity and WordPress, executed and tracked email marketing campaigns, and built organizational social media strategy."
+      ]
+    },
+    {
+      "company": "The Arc of the United States",
+      "position": "Brand Coordinator",
+      "website": "http://www.thearc.org/",
+      "startDate": "2011",
+      "endDate": "2013",
+      "highlights": [
+        "Implemented the national rebranding of a top nonprofit by coordinating the brand licensing of (and overall adoption by) 300+ affiliates, and provided ongoing support of their individual implementation needs."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Vitamin DB",
+      "url": "https://vitamin-db.herokuapp.com/",
+      "summary": "A personal health management system.",
+      "highlights": [
+        "Architected back-end using Node.js, Express and Postgres/Knex, emphasizing a test-driven development approach based on a Chai and Mocha testing suite, with Supertest to streamline server testing.",
+        "Designed overall user experience and executed polished styling based on React-Bootstrap.",
+        "Created automatic email notification on user signup, and implemented automated build testing w/ Travis CI."
+      ]
+    },
+    {
+      "name": "CinemaPlate",
+      "url": "https://filmavore.herokuapp.com/",
+      "summary": "Provides a random movie (Netflix) and delivery (Eat24) pairing based on a user’s location.",
+      "highlights": [
+        "Led team in devising and prioritizing feature enhancements to a legacy project, executed front-end improvements, and successfully deployed app to Heroku platform."
+      ]
+    },
+    {
+      "name": "Travel Consensus",
+      "url": "https://vitamin-db.herokuapp.com/home",
+      "summary": "Facilitates communication and consensus-building around group travel planning.",
+      "highlights": [
+        "Used React.js to construct full front-end view structure,  designed to handle data prior to integrating with back-end, and designed overall user experience.",
+        "Led team in idea generation, selection and ultimately refinement of product concept."
+      ]
+    },
+    {
+      "name": "Beltway Focus",
+      "url": "https://vitamin-db.herokuapp.com/home",
+      "summary": "Visualizes the frequency of a searched word or phrase appearing in the Congressional Record.",
+      "highlights": [
+        "Used d3.js to translate data retrieved from public API to reveal compelling trends. "
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "MakerSquare",
+      "area": "Advanced Software Engineering",
+      "endDate": "2016"
+    },
+    {
+      "institution": "The American University",
+      "area": "Public Communication",
+      "studyType": "BA",
+      "startDate": "2008",
+      "endDate": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "level": "Strong",
+      "keywords": [
+        "JavaScript", 
+        "HTML/CSS", 
+        "Git",  
+        "Node.js", 
+        "Express", 
+        "MySQL/Postgres"
+      ]
+    },
+    {
+      "level": "Experienced",
+      "keywords": [
+        "React.js",
+        "Angular.js", 
+        "Mithril", 
+        "Knex", 
+        "d3.js",
+        "Heroku",
+        "Gulp", 
+        "Grunt"
+      ]
+    }
+  ]
+}
