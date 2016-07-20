@@ -6,6 +6,7 @@
     "email": "amberleyjohanna@gmail.com",
     "website": "http://amberleyromo.com/",
     "summary": "My ancestry traces back to a Spanish warlord. I’m an avid knitter and yogi. I’ve learned and forgotten conversational Mandarin. I have the softest pet rabbit -- who may or may not have his own Instagram.",
+    "objective": "Hi! I am a front-end developer, currently seeking opportunities in Austin. Formerly a technical project manager, I have experience facilitating agile practices. My wide background in communication, marketing, design, and project management gives me great insight on the full lifecycle of a project.",
     "location": {
       "city": "Austin",
       "countryCode": "US",
@@ -52,7 +53,10 @@
       "endDate": "2014",
       "summary": "The Arc is the largest national community-based organization advocating for and serving people with intellectual and developmental disabilities and their families.",
       "highlights": [
-        "Designed and built new sites, and maintained existing sites and content using BlackBaud NetCommunity and WordPress, executed and tracked email marketing campaigns, and built organizational social media strategy."
+        "Designed and built new sites, and maintained existing sites and content using BlackBaud NetCommunity and WordPress.",
+        "Oversaw the life of web content, website accessibility, and search engine optimization.",
+        "Coordinated, created, sent, and tracked email marketing campaigns.",
+        "Helped build and manage overall social media presence, including strategy, messaging and analytics."
       ]
     },
     {
@@ -78,11 +82,20 @@
       ]
     },
     {
-      "name": "CinemaPlate",
-      "url": "https://filmavore.herokuapp.com/",
-      "summary": "Provides a random movie (Netflix) and delivery (Eat24) pairing based on a user’s location.",
+      "name": "Women In Tech",
+      "url": "http://amberleyromo.com/womenintech/",
+      "summary": "Campaign to expand the definition of ‘women in tech’ beyond ‘traditional’ technology skills.",
       "highlights": [
-        "Led team in devising and prioritizing feature enhancements to a legacy project, executed front-end improvements, and successfully deployed app to Heroku platform."
+        "Executed the design of the Women in Tech Campaign site, successfully meeting aggressive launch deadline.",
+        "Created custom WordPress theme to re-engineer site to maximize maintainability."
+      ]
+    },
+    {
+      "name": "Beltway Focus",
+      "url": "https://vitamin-db.herokuapp.com/home",
+      "summary": "Visualizes the frequency of a searched word or phrase appearing in the Congressional Record.",
+      "highlights": [
+        "Used d3.js to translate data retrieved from public API to reveal compelling trends. "
       ]
     },
     {
@@ -93,20 +106,12 @@
         "Used React.js to construct full front-end view structure,  designed to handle data prior to integrating with back-end, and designed overall user experience.",
         "Led team in idea generation, selection and ultimately refinement of product concept."
       ]
-    },
-    {
-      "name": "Beltway Focus",
-      "url": "https://vitamin-db.herokuapp.com/home",
-      "summary": "Visualizes the frequency of a searched word or phrase appearing in the Congressional Record.",
-      "highlights": [
-        "Used d3.js to translate data retrieved from public API to reveal compelling trends. "
-      ]
     }
   ],
   "education": [
     {
       "institution": "MakerSquare",
-      "area": "Advanced Software Engineering",
+      "area": "Software Engineering",
       "endDate": "2016"
     },
     {
@@ -121,24 +126,27 @@
     {
       "level": "Strong",
       "keywords": [
-        "JavaScript", 
-        "HTML/CSS", 
-        "Git",  
-        "Node.js", 
-        "Express", 
-        "MySQL/Postgres"
+        "JavaScript",
+        "HTML/CSS",
+        "Git",
+        "Node.js",
+        "JQuery",
+        "Adobe Illustrator",
+        "Photoshop",
+        "InDesign"
       ]
     },
     {
       "level": "Experienced",
       "keywords": [
         "React.js",
-        "Angular.js", 
-        "Mithril", 
-        "Knex", 
+        "Mithril",
+        "Express",
+        "MySQL/Postgres",
+        "Knex",
         "d3.js",
         "Heroku",
-        "Gulp", 
+        "Gulp",
         "Grunt"
       ]
     }
